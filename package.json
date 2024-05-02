@@ -1,0 +1,20 @@
+{
+  "name": "eachjs",
+  "version": "0.0.1",
+  "description": "AI Flow Javascript client from Each.",
+  "repository": "github:eachlabs/eachjs",
+  "homepage": "https://github.com/eachlabs/eachjs#readme",
+  "bugs": "https://github.com/eachlabs/eachjs/issues",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=7.19.0",
+    "git": ">=2.11.0",
+    "yarn": ">=1.7.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Each AI"
+}
