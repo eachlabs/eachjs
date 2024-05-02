@@ -9,7 +9,7 @@ A Node.js client for [Each](https://eachlabs.ai). Each is a platform for deployi
 ## Installation
 
 ```bash
-npm install eachjs
+npm install @eachlabs/aiflow
 ```
 
 ## Usage
@@ -18,10 +18,10 @@ Create a new client with your API key
 
 ```javascript
 // CommonJS as default
-const Each = require('eachjs');
+const Each = require('@eachlabs/aiflow');
 
 // ESM
-import Each from 'eachjs';
+import Each from '@eachlabs/aiflow';
 
 ```
 

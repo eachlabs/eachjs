@@ -1,6 +1,6 @@
 {
-  "name": "eachjs",
-  "version": "0.0.1",
+  "name": "@eachlabs/aiflow",
+  "version": "0.0.3",
   "description": "AI Flow Javascript client from Each.",
   "repository": "github:eachlabs/eachjs",
   "homepage": "https://github.com/eachlabs/eachjs#readme",
@@ -16,5 +16,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "ai",
+    "flow",
+    "each",
+    "labs"
+  ],
   "author": "Each AI"
 }
